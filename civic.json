@@ -1,0 +1,17 @@
+{
+        "status": "Alpha",
+        "thumbnailUrl": "http://comptroller.nyc.gov/wp-content/uploads/documents/images/CAFR2014-1.jpg",
+        "bornAt": "#CodeAcross",
+        "geography": "NYC",
+        "politicalEntity":"NYC",
+        "type":"PDF Data Parsing",
+        "needs": [
+                {"need": "Tabula.technology users"},
+                {"need": "Municipal finance domain experts"},
+                {"need": "Database admin"}
+        ],
+        "categories": [
+                {"category": "Municipal Finance"},
+                {"category": "City government"}
+        ]
+}
